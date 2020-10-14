@@ -2,16 +2,19 @@ Warna yang dipakai didalam Mockup Web Hidro Web
 
 ==============================================
 Contact:
+
 #50829E >> Header
 #609EB1 >> Background
 #141517 >> Footer
 ==============================================
 About Us:
+
 #50829E >> Header
 #9DCAC7 >> Background
 #141517 >> Footer
 ==============================================
 Home:
+
 #A0604C >> Header
 #422F2F >> Backgorund
 #0B0A0A >> Menu
