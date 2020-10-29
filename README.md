@@ -5,5 +5,5 @@ Kami membuat sebuah Mockup Web tentang pertanian yang bernama Hidro Web untuk tu
 
 Kontributor
 ===========
-- Moch. Arisandi Jayanto (192410103064)
-- Agung Rizqi Alhana (192410103070)
+* [Moch Arisandi Jayanto](https://github.com/MochArisandiJayanto) (192410103064)
+* [Agung Rizqi Alhana](https://github.com/agung-bit)	(192410103070)
